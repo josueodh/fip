@@ -97,7 +97,6 @@ function App() {
     "214",
   ]
   const [brands, setBrands] = useState([]);
-  const [cars, setCars] = useState([]);
   const [i, setI] = useState(0);
 
   useEffect(() => {
